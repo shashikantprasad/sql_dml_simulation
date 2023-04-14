@@ -1,4 +1,5 @@
 # sql_dml_simulation
+This is just a fun exercise.
 
 <h2>About the SQL Query:</h2>
 
@@ -27,6 +28,10 @@ Problem Solving Insights:
     * Dynamic Decision Parameter: To simulate UPDATE to random fields.
     * How to pick an arbitrary number of records from a set?
     * How to make the “variability” of data changes adjustable?
+
+Note:
+      * When the "var_percent" value is set 0, the query outputs the same records every run. The simulated DML activity increases as this value increases.
+      * The query output may get corrupted for row count limits above 10000. It can be altered to accomodate large amounts of output.
 </pre>
 
 <h2>About Data Visualization:</h2>
