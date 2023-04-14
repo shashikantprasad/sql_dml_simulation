@@ -1,9 +1,9 @@
 # sql_dml_simulation
+SQL "SELECT" simulates "INSERT", "UPDATE" &amp; "DELETE" statements, i.e., not using stored records in a database table but generating them in real-time.<br/>
 This is just a fun exercise.
 
 <h2>About the SQL Query:</h2>
 
-SQL "SELECT" simulates "INSERT", "UPDATE" &amp; "DELETE" statements, i.e., not using stored records in a database table but generating them in real-time.
 Purpose: Dynamic Sample data generation. Different output on every run but not entirely random. Imitate a typical application table.
 
 <pre>
