@@ -2,6 +2,8 @@
 SQL "SELECT" simulates "INSERT", "UPDATE" &amp; "DELETE" statements, i.e., not using stored records in a database table but generating them in real-time.<br/>
 This is just a fun exercise.
 
+https://user-images.githubusercontent.com/130747571/232069956-296ff688-cb29-4afa-8b66-016142aaa2dd.mp4
+
 <h2>About the SQL Query:</h2>
 
 Purpose: Dynamic Sample data generation. Different output on every run but not entirely random. Imitate a typical application table.
